@@ -10,4 +10,7 @@ namespace ConsoleApp1
             Console.WriteLine("Novo");
         }
     }
+    class NewClass
+    {
+    }
 }
