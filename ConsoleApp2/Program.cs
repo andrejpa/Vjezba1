@@ -12,5 +12,9 @@ namespace ConsoleApp1
     }
     class NewClass
     {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Added on github");
+        }
     }
 }
